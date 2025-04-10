@@ -1,8 +1,8 @@
-# Ìæ¨ Movie Landing Page
+# Movie Landing Page
 
 Uma landing page responsiva para filmes, criada com HTML, SCSS e TypeScript. Projeto estruturado com Gulp para automa√ß√£o de tarefas, ideal para deploy na Vercel ou outro ambiente est√°tico.
 
-## Ì∫Ä Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - SCSS (SASS)
@@ -11,7 +11,7 @@ Uma landing page responsiva para filmes, criada com HTML, SCSS e TypeScript. Pro
 - Imagemin (para otimiza√ß√£o de imagens)
 - Vercel (para deploy)
 
-## Ì≥Ç Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 movie-landing/
@@ -30,7 +30,7 @@ movie-landing/
 ‚îî‚îÄ‚îÄ README.md              # Este arquivo
 ```
 
-## Ìª†Ô∏è Como usar
+## Como usar
 
 ### 1. Clonar o projeto
 
@@ -67,7 +67,7 @@ Esse comando compila tudo para a pasta `dist/`, que √© a vers√£o pronta para sub
 - O Gulp utiliza `gulpfile.mjs` com ES Modules. Isso exige `"type": "module"` no `package.json`.
 - Se usar `imagemin`, verifique se est√° utilizando a forma correta de importa√ß√£o para evitar erros.
 
-## Ì≥¶ Deploy com Vercel
+## Deploy com Vercel
 
 - Fa√ßa login em [vercel.com](https://vercel.com)
 - Clique em **"Import Project"**
@@ -77,11 +77,11 @@ Esse comando compila tudo para a pasta `dist/`, que √© a vers√£o pronta para sub
 
 ---
 
-## Ì≥Ñ Licen√ßa
+## Licen√ßa
 
 Projeto livre para fins educacionais e comerciais. Sinta-se √† vontade para adaptar.
 
 ---
 
-Feito com Ì≤ô por Valter Vieira ‚Äì [valtervieira.dev@gmail.com](mailto:valtervieira.dev@gmail.com)
+Feito com por Valter Vieira ‚Äì [valtervieira.dev@gmail.com](mailto:valtervieira.dev@gmail.com)
 
