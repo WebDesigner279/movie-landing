@@ -1,2 +1,25 @@
 # .gitignore para movie-landing
-node_modules/\ndist/\npackage-lock.json\n*.tsbuildinfo\n.vscode/\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\n.DS_Store\nThumbs.db
+
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Arquivos de lock
+package-lock.json
+
+# Arquivos temporários do TypeScript
+*.tsbuildinfo
+
+# Configurações locais do editor
+.vscode/
+
+# Logs de erro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
